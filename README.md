@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @irfanon87
 - 👀 I’m interested in Microsoft Azure, Cisco devices, Infosec, Python
-- 🌱 I’m currently learning CCNA, and Networking and IT security
-- 💞️ I’m looking to collaborate on Cisco routing and switching. CCNA labs
+- 🌱 I’m currently persuing Bachelor in Cyber Security
+- 💞️ I’m looking to collaborate on Ethical hacking, cisco products, python. 
 - 📫 How to reach me ...Twitter @irfanon87
 - 
 
